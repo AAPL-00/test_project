@@ -15,7 +15,7 @@ Es un entorno de experimentación y aprendizaje.
 
 ## Notas
 
-- Se usa Django 4.x y Django REST Framework.
+- Se usa Django 5.x y Django REST Framework.
 - El proyecto está conectado a una base de datos PostgreSQL local para desarrollo.
 - Se maneja control de versiones a través de Git y el repositorio es privado.
 
